@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OminaSultonova
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Front end developer
+- 🌱 I’m currently learning Web Development
 - 📫 How to reach me sultonovaomina37@gmail.com
 
 <!---
